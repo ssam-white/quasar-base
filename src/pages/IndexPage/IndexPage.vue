@@ -1,17 +1,13 @@
 <script setup lang="ts">
-
 </script>
 
 <template>
-  <q-page
-    padding
-    class="column flex-center"
-  >
+  <q-page class="row items-center justify-evenly">
     <h1
-      class="text-weight-thin text-blue-grey"
+      class="mt-0 text-weight-thin text-blue-grey"
       style="font-size: 4em;"
     >
-      You Can Build Anything...
+      Welcome
     </h1>
   </q-page>
 </template>
